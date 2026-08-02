@@ -41,7 +41,53 @@ I find it exciting to push human boundaries with technology, and I believe we ha
 
 ## Selected GitHub repositories
 
-Past **side projects**, **coursework**, and **research code** live in separate repositories. Most are **archived** on GitHub (read-only snapshots; not actively maintained).
+Past **side projects**, **coursework**, and **research code** live in separate repositories. Most of the older ones are **archived** on GitHub (read-only snapshots; not actively maintained) — the algorithm-visualiser portfolio below is the exception: it's active and still growing.
+
+**Algorithm visualisers** (self-directed; from-scratch NumPy implementations, each with an interactive step-by-step Streamlit + Plotly walkthrough — no scikit-learn/PyTorch in the core algorithm)
+
+*Clustering*
+
+- [kmeans-viz](https://github.com/johnantonn/kmeans-viz) — k-means, manual centroid placement  
+- [dbscan-viz](https://github.com/johnantonn/dbscan-viz) — DBSCAN density clustering, core/border/noise points  
+- [gmm-viz](https://github.com/johnantonn/gmm-viz) — Gaussian mixture models, EM algorithm  
+
+*Dimensionality reduction*
+
+- [pca-viz](https://github.com/johnantonn/pca-viz) — PCA: covariance, eigenvectors, rank-*k* reconstruction  
+- [umap-viz](https://github.com/johnantonn/umap-viz) — UMAP: fuzzy simplicial graph + embedding SGD  
+- [tsne-viz](https://github.com/johnantonn/tsne-viz) — t-SNE: KL-divergence descent on affinities  
+
+*Classification & ensembles*
+
+- [perceptron-viz](https://github.com/johnantonn/perceptron-viz) — perceptron + SGD/momentum/Adam gradient descent  
+- [svm-viz](https://github.com/johnantonn/svm-viz) — soft-margin kernel SVM via SMO  
+- [random-forest-viz](https://github.com/johnantonn/random-forest-viz) — bagging, feature subsampling, OOB error  
+
+*Deep learning building blocks*
+
+- [backprop-viz](https://github.com/johnantonn/backprop-viz) — MLP backpropagation, gradient flow  
+- [transformer-attention-viz](https://github.com/johnantonn/transformer-attention-viz) — scaled dot-product self-attention, multi-head  
+
+*Generative & self-supervised models*
+
+- [vae-viz](https://github.com/johnantonn/vae-viz) — variational autoencoder, reparameterisation trick  
+- [diffusion-viz](https://github.com/johnantonn/diffusion-viz) — DDPM forward/reverse diffusion process  
+- [contrastive-learning-viz](https://github.com/johnantonn/contrastive-learning-viz) — SimCLR-style contrastive learning, NT-Xent loss  
+
+*Graph algorithms*
+
+- [dijkstra-viz](https://github.com/johnantonn/dijkstra-viz) — Dijkstra & A* pathfinding on a grid  
+- [mst-viz](https://github.com/johnantonn/mst-viz) — minimum spanning tree, Kruskal & Prim  
+
+*Probabilistic methods, state estimation & signal processing*
+
+- [mcmc-viz](https://github.com/johnantonn/mcmc-viz) — Metropolis-Hastings MCMC sampling  
+- [kalman-filter-viz](https://github.com/johnantonn/kalman-filter-viz) — Kalman filter predict/update tracking  
+- [fft-viz](https://github.com/johnantonn/fft-viz) — Cooley-Tukey FFT, butterfly diagram  
+
+*Reinforcement learning*
+
+- [qlearning-viz](https://github.com/johnantonn/qlearning-viz) — Q-learning vs SARSA on a stochastic grid world  
 
 **Personal notebooks & experiments** (self-directed; not part of a degree curriculum)
 
