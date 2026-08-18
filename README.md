@@ -92,4 +92,4 @@ You can find my full CV [here](https://www.dropbox.com/scl/fi/8ivr3wr4eyzgz1rlop
 
 ## Contact
 
-You can contact me by [email](mailto:ioannis.antoniadis.uk@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ioannis-antoniadis/).
+You can contact me by [email](mailto:ioannis.antoniadis.uk@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/iantoniadis/).
