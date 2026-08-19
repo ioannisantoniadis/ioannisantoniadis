@@ -46,15 +46,15 @@ gitGraph
     commit id: "·"
     commit id: "🔵 ML research engineer & tech lead, ISSEL AUTH (2018)"
     commit id: "🟠 Paper — ISGT-Europe: smart-meter security (2019)"
-    commit id: "∙"
-    commit id: "•"
+    commit id: "·​"
+    commit id: "·‌"
     commit id: "🟠 MSc AI, KU Leuven — magna cum laude (2022)"
     commit id: "🟠 Paper — LIDTA/ECML-PKDD: CASH for anomaly detection (2022)"
     commit id: "🔵 ML scientist, Expedia Group, London (2022–present)"
-    commit id: "◦"
-    commit id: "‣"
-    commit id: "⁃"
-    commit id: "○"
+    commit id: "·​​"
+    commit id: "·​‌"
+    commit id: "·‌​"
+    commit id: "·‌‌"
 ```
 
 ## What motivates me
