@@ -35,19 +35,26 @@ In **September 2022** I joined [Expedia Group](https://www.expediagroup.com/home
 
 ## Career timeline
 
-Bullet colour marks the track: 🔵 industry · 🟠 academia / research.
+🔵 working experience · 🟠 degrees & papers
 
 ```mermaid
 %%{init: { 'themeVariables': { 'git0': '#8b949e' }, 'gitGraph': { 'mainBranchName': 'career' } } }%%
 gitGraph
     commit id: "🟠 MEng ECE, AUTH — top 3% (2015)"
-    commit id: "🟠 Research associate, CERTH (2015)"
+    commit id: "🔵 Research associate, CERTH (2015)"
     commit id: "🔵 Software engineer, Veltio (2016)"
-    commit id: "🟠 ML research engineer & tech lead, ISSEL AUTH (2018)"
+    commit id: "·"
+    commit id: "🔵 ML research engineer & tech lead, ISSEL AUTH (2018)"
     commit id: "🟠 Paper — ISGT-Europe: smart-meter security (2019)"
+    commit id: "∙"
+    commit id: "•"
     commit id: "🟠 MSc AI, KU Leuven — magna cum laude (2022)"
     commit id: "🟠 Paper — LIDTA/ECML-PKDD: CASH for anomaly detection (2022)"
     commit id: "🔵 ML scientist, Expedia Group, London (2022–present)"
+    commit id: "◦"
+    commit id: "‣"
+    commit id: "⁃"
+    commit id: "○"
 ```
 
 ## What motivates me
