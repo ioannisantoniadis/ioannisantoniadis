@@ -38,7 +38,7 @@ In **September 2022** I joined [Expedia Group](https://www.expediagroup.com/home
 🔵 working experience · 🟠 degrees · 🟢 papers
 
 ```mermaid
-%%{init: { 'themeVariables': { 'git0': '#8b949e' }, 'gitGraph': { 'mainBranchName': 'career' } } }%%
+%%{init: { 'themeVariables': { 'git0': '#8250df' }, 'gitGraph': { 'mainBranchName': 'career' } } }%%
 gitGraph
     commit id: "🟠 MEng ECE, AUTH (2015)"
     commit id: "🔵 Research associate, CERTH (2015)"
