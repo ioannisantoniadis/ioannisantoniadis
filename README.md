@@ -33,6 +33,34 @@ In **September 2022** I joined [Expedia Group](https://www.expediagroup.com/home
 
 <sub>*My first job was in 2011, during my second year at AUTH, as a part-time support representative at OTE, the largest telecommunications company in Greece.</sub>
 
+## Career timeline
+
+Bullet colour marks the track: 🔵 industry · 🟠 academia / research. Plain-numbered commits are undated filler that keeps the spacing roughly proportional to real elapsed years — only the coloured entries are actual milestones.
+
+```mermaid
+%%{init: { 'themeVariables': { 'git0': '#8b949e' }, 'gitGraph': { 'mainBranchName': 'career' } } }%%
+gitGraph
+    commit id: "🔵 OTE, part-time support rep (2011)"
+    commit id: "2012"
+    commit id: "2013"
+    commit id: "2014"
+    commit id: "🟠 MEng ECE, AUTH — top 3% (2015)"
+    commit id: "🟠 Research associate, CERTH (2015)"
+    commit id: "🔵 Software engineer, Veltio (2016)"
+    commit id: "2017"
+    commit id: "🟠 ML research engineer & tech lead, ISSEL AUTH (2018)"
+    commit id: "🟠 Paper — ISGT-Europe: smart-meter security (2019)"
+    commit id: "2020"
+    commit id: "2021"
+    commit id: "🟠 MSc AI, KU Leuven — magna cum laude (2022)"
+    commit id: "🟠 Paper — LIDTA/ECML-PKDD: CASH for anomaly detection (2022)"
+    commit id: "🔵 ML scientist, Expedia Group, London (2022)"
+    commit id: "2023"
+    commit id: "2024"
+    commit id: "2025"
+    commit id: "2026 · present"
+```
+
 ## What motivates me
 
 I find it exciting to push human boundaries with technology, and I believe we have a responsibility to leave the world better for future generations.
