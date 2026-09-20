@@ -15,12 +15,14 @@ Since 2015: research associate at CERTH (EU cloud computing), software engineer 
 
 ## Projects
 
-Four active, self-directed repos exploring ML/AI from first principles — most other side projects, coursework, and research code are archived.
+Active, self-directed repos exploring ML/AI from first principles — most other side projects, coursework, and research code are archived.
 
 - **[algorithm-visualizers](https://github.com/ioannisantoniadis/algorithm-visualizers)** ([live demo](https://algorithm-visualizers.streamlit.app/)) — 21 classic ML/CS algorithms, each a from-scratch NumPy implementation with an interactive Streamlit + Plotly walkthrough: clustering, dimensionality reduction, classification, deep learning building blocks, generative models, graph algorithms, probabilistic methods, and reinforcement learning.
 - **[transformer-atlas](https://github.com/ioannisantoniadis/transformer-atlas)** ([map](https://ioannisantoniadis.github.io/transformer-atlas/visual-map.html)) — a structured map of the transformer architecture, from the 2017 original through the attention variants, positional encodings, MoE routing, and inference tricks behind today's frontier LLMs, each with a minimal runnable PyTorch implementation.
 - **[modern-ai-systems-and-methods](https://github.com/ioannisantoniadis/modern-ai-systems-and-methods)** ([site](https://ioannisantoniadis.github.io/modern-ai-systems-and-methods/)) — a 19-chapter field guide to modern AI, from supervised learning through agents and responsible AI, with real computed visualizations and explicit links between chapters.
 - **[optimization-lab](https://github.com/ioannisantoniadis/optimization-lab)** ([docs](https://ioannisantoniadis.github.io/optimization-lab/)) — from-scratch implementations of ~30 classical optimization algorithms behind a shared `Problem -> OptimizeResult` interface, a solver-arena comparison harness, and cross-domain applications in physics, economics, and ML.
+- **[math-conceptual-map](https://github.com/ioannisantoniadis/math-conceptual-map)** ([site](https://ioannisantoniadis.github.io/math-conceptual-map/)) — a 25-chapter conceptual map of mathematics for people who already know how to use it, tracing why each structure was invented, what it generalizes, and how logic, algebra, and probability converge on the same theorems on the way to a machine-learning bridge.
+- **[computational-life-lab](https://github.com/ioannisantoniadis/computational-life-lab)** — an experimental artificial-life platform running the BFF primordial-soup experiment: self-modifying programs collide, recombine, and are studied for emergent self-replication and evolutionary dynamics, with no fitness function or hard-coded notion of "replicator."
 
 ## Curriculum vitae
 
